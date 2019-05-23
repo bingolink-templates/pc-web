@@ -32,6 +32,7 @@ module.exports = {
     'one-var': 0,
     'spaced-comment': 0,
     'semi':0,
-    'eqeqeq': 0
+    'eqeqeq': 0,
+    'no-undef':0
   }
 }
